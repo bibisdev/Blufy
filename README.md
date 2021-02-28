@@ -1,4 +1,4 @@
-![Banner](https://nyri4.github.io/Comfy/assets/banner.png)
+![Banner](https://bibisdev.github.io/Blufy/assets/banner.png)
 
 ---
 
