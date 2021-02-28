@@ -23,10 +23,10 @@
     animation-delay: 0s;
     opacity: 0.5;
 }
-.headerPlaying-j0WQBV:before { background: url('https://nyri4.github.io/Comfy/assets/wave_playing.png'); background-size: 250px 20px;}
-.headerSpotify-zpWxgT:before { background: url('https://nyri4.github.io/Comfy/assets/wave_spotify.png'); background-size: 250px 20px;}
-.headerStreaming-2FjmGz:before { background: url('https://nyri4.github.io/Comfy/assets/wave_streaming.png'); background-size: 250px 20px;}
-.headerXbox-3G-4PF:before { background: url('https://nyri4.github.io/Comfy/assets/wave_xbox.png'); background-size: 250px 20px;}
+.headerPlaying-j0WQBV:before { background: url('https://bibisdev.github.io/Blufy/assets/wave_playing.png'); background-size: 250px 20px;}
+.headerSpotify-zpWxgT:before { background: url('https://bibisdev.github.io/Blufy/assets/wave_spotify.png'); background-size: 250px 20px;}
+.headerStreaming-2FjmGz:before { background: url('https://bibisdev.github.io/Blufy/assets/wave_streaming.png'); background-size: 250px 20px;}
+.headerXbox-3G-4PF:before { background: url('https://bibisdev.github.io/Blufy/assets/wave_xbox.png'); background-size: 250px 20px;}
 @keyframes animate { 0% { background-position-x: 0;} 100% { background-position-x: 250px;}}
 @keyframes animate2 {0% { background-position-x: 250px; } 100% { background-position-x: 0px;}}
 
