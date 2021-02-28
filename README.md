@@ -2,7 +2,7 @@
 
 ---
 
-# Comfy
+# Blufy
 ![Preview](https://i.ibb.co/p1JGyC6/image.png)
 
 ## 📥 Installation
@@ -10,7 +10,7 @@
 ### Powercord & Vizality
 
 ```sh
-git clone https://github.com/NYRI4/Comfy
+git clone https://github.com/bestzinha/Blufy
 ```
 
 ### BetterDiscord
@@ -19,8 +19,8 @@ git clone https://github.com/NYRI4/Comfy
 2. Save the file into your theme folder
 
 ## 🖌️ Customization
-Go into your theme folder > Comfy > support
-- For BetterDiscord : `comfy.theme.css`
+Go into your theme folder > Blufy > support
+- For BetterDiscord : `blufy.theme.css`
 - For Powercord/Vizality : `_custom.css`
 
 ## Credits
