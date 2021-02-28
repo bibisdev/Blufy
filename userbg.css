@@ -8,9 +8,10 @@
 /* #BIBI = DONO DO PROJETO. */
 /* ======================== */
 
-[user_by_bdfdb*="749789188378984591"],                                           /* DISCORD ID BIBI */ 
+[user_by_bdfdb*="749789188378984591"],                              /* DISCORD ID BIBI */ 
 [data-user-id*="749789188378984591"] {
-	--user-background: url('https://i.imgur.com/WxUqOTb.gif');              /* BACKGROUND PAISAGEM */
+	--user-background: url('https://i.imgur.com/WxUqOTb.gif'); /* BACKGROUND PAISAGEM */
+}
 
 /* ======================== */
 /* ALGUNS AMIGOS ESPECIAIS. */
