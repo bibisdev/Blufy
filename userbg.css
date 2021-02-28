@@ -8,9 +8,10 @@
 /* #BIBI = DONO DO PROJETO. */
 /* ======================== */
 
-[user_by_bdfdb*="749789188378984591"],                              /* DISCORD ID BIBI */ 
+[user_by_bdfdb*="749789188378984591"],
 [data-user-id*="749789188378984591"] {
-	--user-background: url('https://i.imgur.com/WxUqOTb.gif'); /* BACKGROUND PAISAGEM */
+	--user-background: url('https://i.imgur.com/WxUqOTb.gif');
+  	--user-poopout-position:right !important;
 }
 
 /* ======================== */
@@ -19,16 +20,16 @@
 
 /* oMega#5906 */
 
-[user_by_bdfdb*="247910119474593792"],                                      /* DISCORD ID OMEGA */ 
+[user_by_bdfdb*="247910119474593792"],
 [data-user-id*="247910119474593792"] {
-	--user-background: url('https://i.imgur.com/N3bBV5Q.gif');                /* BACKGROUND OPPAI */
+	--user-background: url('https://i.imgur.com/N3bBV5Q.gif');
 }
 
 /* 👑Owner👑#4731 */
 
-[user_by_bdfdb*="328360110592098304"],                                      /* DISCORD ID OWNERZEIRO */ 
+[user_by_bdfdb*="328360110592098304"],
 [data-user-id*="328360110592098304"] {
-	--user-background: url('https://i.imgur.com/XRPmOL9.gif');              /* BACKGROUND UNIVERSO */
+	--user-background: url('https://i.imgur.com/XRPmOL9.gif');
 }
 
 /* ======================== */
