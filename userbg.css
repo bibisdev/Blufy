@@ -4,14 +4,6 @@
 	--user-popout-position: center;
 }
 
-/*Zwill#4080*/
-
-[user_by_bdfdb*="633277107535085598"],
-[data-user-id*="633277107535085598"] {
-    --user-popout-position: right !important;
-    --user-background: url('https://i.imgur.com/jzbuAiQ.gif');        /* BACKGROUND POLICIA */
-}
-
 /* ======================== */
 /* #BIBI = DONO DO PROJETO. */
 /* ======================== */
