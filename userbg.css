@@ -32,6 +32,13 @@
 	--user-background: url('https://i.imgur.com/XRPmOL9.gif');
 }
 
+/* vitor23#8330 */
+
+[user_by_bdfdb*="736563541380956200"],
+[data-user-id*="736563541380956200"] {
+	--user-background: url('https://i.imgur.com/SwZkuy4.gif');
+}
+
 /* ======================== */
 /*  ALGUNS USUARIOS DO BD.  */
 /* ======================== */
