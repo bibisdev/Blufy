@@ -32,11 +32,13 @@
 	--user-background: url('https://i.imgur.com/XRPmOL9.gif');
 }
 
-/* vitor23#8330 */
+/*LucasST#1725 and Faustino#4734*/
 
-[user_by_bdfdb*="736563541380956200"],
-[data-user-id*="736563541380956200"] {
-	--user-background: url('https://i.imgur.com/sB8k5s6.gif');
+[user_by_bdfdb*="678684444810543149"],
+[data-user-id*="678684444810543149"],
+[user_by_bdfdb*="648338127232040960"],
+[data-user-id*="648338127232040960"] {
+	--user-background: url('https://i.imgur.com/zGCbSy9.gif');
 }
 
 /* ======================== */
