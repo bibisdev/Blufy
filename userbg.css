@@ -10,12 +10,17 @@
 /* ======================== */
 
 [user_by_bdfdb*="749789188378984591"],
-[data-user-id*="749789188378984591"],
+[data-user-id*="749789188378984591"] {
+	--user-background: url('https://i.imgur.com/EipgmvH.gif');
+  	--user-poopout-position:right !important;
+}
+
 [user_by_bdfdb*="815764399942926357"],
 [data-user-id*="815764399942926357"] {
 	--user-background: url('https://i.imgur.com/WxUqOTb.gif');
   	--user-poopout-position:right !important;
 }
+
 
 /* ======================== */
 /* ALGUNS AMIGOS ESPECIAIS. */
@@ -48,12 +53,12 @@
 
 [user_by_bdfdb*="613764874555621376"],
 [data-user-id*="613764874555621376"] {	
-	--user-background: url('https://i.imgur.com/N3bBV5Q.gif');
+	--user-background: url('https://i.imgur.com/tVUWNXQ.gif');
 }	
 
 /* FsT#8409 */
 
 [user_by_bdfdb*="569187855864430597"],
 [data-user-id*="569187855864430597"] {	
-	--user-background: url('https://i.imgur.com/N3bBV5Q.gif');
+	--user-background: url('https://i.imgur.com/WS1GroH.gif');
 }	
